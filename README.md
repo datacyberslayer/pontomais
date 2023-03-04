@@ -1,2 +1,2 @@
 # pontomais
-Automação de ponto no software pontomais  com selenium and python
+Automação para bater o ponto no software pontomais  com selenium and python
